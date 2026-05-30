@@ -1,0 +1,40 @@
+[
+  {
+    "EmployeeID": 101,
+    "Name": "Rajiv",
+    "Email": "mohitchauhan7079@gmail.com",
+    "Designation": "developer",
+    "BaseSalary": 60000,
+    "HRA": 6000,
+    "Allowances": 3000,
+    "Deductions": 1000,
+    "Month": "DECEMBER",
+    "Year": 2002
+  },
+  {
+    "EmployeeID": 102,
+    "Name": "Vishal",
+    "Email": "mohitchauhan7079@gmail.com",
+    "Designation": "tester",
+   
+   
+    "BaseSalary": 70000,
+    "HRA": 7000,
+    "Allowances": 4000,
+    "Deductions": 2000,
+    "Month": "NOVEMBER",
+    "Year": 2003
+  },
+  {
+    "EmployeeID": 103,
+    "Name": "Dablu",
+    "Email": "mohitchauhan7079@gmail.com",
+    "Designation": "engineer",
+    "BaseSalary": 80000,
+    "HRA": 8000,
+    "Allowances": 5000,
+    "Deductions": 3000,
+    "Month": "OCTOBER",
+    "Year": 2004
+  }
+]
