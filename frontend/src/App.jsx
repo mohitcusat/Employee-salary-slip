@@ -17,7 +17,7 @@ function App() {
 
     try {
       const res = await axios.post(
-        "http://localhost:5000/api/upload",
+        "https://employee-salary-slip.onrender.com/api/upload",
         formData
       );
 
@@ -32,7 +32,7 @@ function App() {
   const sendSlips = async () => {
     try {
       const res = await axios.post(
-        "http://localhost:5000/api/upload/send-slips"
+        "https://employee-salary-slip.onrender.com/api/upload/send-slips"
       );
 
       alert(res.data.message);
